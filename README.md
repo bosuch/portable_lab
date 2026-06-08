@@ -1,5 +1,10 @@
 # Portable Homelab
-A portable 3D-printed homelab built with Raspberry Pis
+A portable 3D-printed homelab built with Raspberry Pis, containing:
+
+- [OpenWRT Router](#openwrt-router)
+- [5-Port Switch](#5-port-gigabit-switch)
+- [Network Attached Storage](#network-attached-storage)
+- [Docker](#docker)
 
 ## 3D Printed Rack
 
@@ -15,7 +20,7 @@ There are several other good sets of files, such as the 6" [**Microlab - Mini Mo
 
 A TP-Link 5-Port Gigabit desktop switch (LS1005G). The switch has to be removed from the case to fit properly, but it pops out easily. For such a small system I figured there wasn't a need for one with VLAN capabilities. 
 
-### Network Attached Storage (NAS)
+### Network Attached Storage
 
 A small NAS running Samba for file sharing and storing the Docker containers.
 
