@@ -13,6 +13,8 @@ There are several other good sets of files, such as the 6" [**Microlab - Mini Mo
 
 ### 5-Port Gigabit Switch
 
+A TP-Link 5-Port Gigabit desktop switch (LS1005G). The switch has to be removed from the case to fit properly, but it pops out easily. For such a small system I figured there wasn't a need for one with VLAN capabilities. 
+
 ### Network Attached Storage (NAS)
 
 ### Docker
