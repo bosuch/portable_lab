@@ -17,4 +17,7 @@ A TP-Link 5-Port Gigabit desktop switch (LS1005G). The switch has to be removed 
 
 ### Network Attached Storage (NAS)
 
+- Raspberry Pi 5 (1 GB)
+- NVMe base
+
 ### Docker
