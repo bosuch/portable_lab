@@ -89,3 +89,9 @@ And restart the Samba server:
 You should now be able to connect to the server using \\{IP_ADDRESS}\PiShare
 
 ### Docker
+
+A Raspberry Pi 5 running Docker and Dockge.
+
+- Raspberry Pi 5 (8GB)
+- Pi 5 Active Cooler
+- 64GB micro SD card
