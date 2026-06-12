@@ -23,7 +23,7 @@ A Raspberry Pi Compute Module running the open-source OpenWRT router project.
 
 The DFRobot board was chosen because it has two ethernet ports. You could get away with using a regular Pi 4 or 5 with a USB-Ethernet adapter, but it won't look as clean.
 
-Writeup on the way.
+TODO: Writeup on the way.
 
 ### 5-Port Gigabit Switch
 
@@ -117,4 +117,4 @@ Connect to the shared space on the NAS:
 
 `sudo mount -o user=pi,password=pi //{IP_ADDRESS}/PiShare /pishare`
 
-(TODO: I need to update this with persistent mounting, plus installing Docker and Dockge)
+TODO: I need to update this with persistent mounting, plus installing Docker and Dockge
