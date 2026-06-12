@@ -104,3 +104,17 @@ A Raspberry Pi 5 running Docker and Dockge.
 - Raspberry Pi 5 (8GB)
 - Pi 5 Active Cooler
 - 64GB micro SD card
+
+**Setup**
+
+Boot the Pi using a new installation of 64-bit Raspberry Pi OS. 
+
+Create a directory where you will mount the network share on the Pi.
+
+`sudo mkdir -p /pishare`
+
+Connect to the shared space on the NAS:
+
+`sudo mount -o user=pi,password=pi //{IP_ADDRESS}/PiShare /pishare`
+
+(TODO: I need to update this with persistent mounting, plus installing Docker and Dockge)
