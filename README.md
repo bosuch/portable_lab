@@ -16,6 +16,15 @@ There are several other good sets of files, such as the 6" [**Microlab - Mini Mo
 
 ### OpenWRT Router
 
+A Raspberry Pi Compute Module running the open-source OpenWRT router project.
+
+- DFRobot CM4 Router Board
+- Raspberry Pi Compute Module 4
+
+The DFRobot board was chosen because it has two ethernet ports. You could get away with using a regular Pi 4 or 5 with a USB-Ethernet adapter, but it won't look as clean.
+
+Writeup on the way.
+
 ### 5-Port Gigabit Switch
 
 A TP-Link 5-Port Gigabit desktop switch (LS1005G). The switch has to be removed from the case to fit properly, but it pops out easily. For such a small system I figured there wasn't a need for one with VLAN capabilities. 
